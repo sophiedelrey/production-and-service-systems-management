@@ -1,2 +1,3 @@
 # production-and-service-systems-management
- Production &amp; Operations Strategy -  Forecasting &amp; Demand Planning -  Inventory &amp; Supply Chain Management - Scheduling &amp; Resource Allocation -  Service Systems Optimization - Lean &amp; Agile Methodologies | Production and Service Systems Management at ECE NTUA
+projects for the course "Production and Service Systems Management" at the School of Electrical and Computer Engineering, NTUA. The course covers key concepts in operations management, production planning, supply chain optimization, and service system analysis.
+
